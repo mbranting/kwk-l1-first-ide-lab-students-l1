@@ -1,1 +1,1 @@
-HelloWorld kode with klossy
+puts "Hello World!"
